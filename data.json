@@ -220,6 +220,33 @@
                     "TychoRoc"
                 ]
             }
+        },
+        {
+            "name": "First Jump",
+            "instanceId": 1,
+            "startTime": 1795206600,
+            "setLength": 15,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
+        },
+        {
+            "name": "Arrival",
+            "instanceId": 1,
+            "startTime": 1795299300,
+            "setLength": 15,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
+        },
+        {
+            "name": "???",
+            "instanceId": 1,
+            "startTime": 1795377600,
+            "setLength": 15,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
         }
     ]
 }
