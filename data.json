@@ -19,7 +19,12 @@
         {
             "name": "Day 2",
             "start": 1795291200,
-            "finish": 1795325400
+            "finish": 1795329000
+        },
+        {
+            "name": "Day 3",
+            "start": 1795366800,
+            "finish": 1795384800
         }
     ],
     "instances": [
@@ -148,6 +153,71 @@
                 "VJ": [],
                 "LD": [
                     "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "State of the Lore Address",
+            "instanceId": 3,
+            "startTime": 1795222800,
+            "setLength": 75,
+            "logoName": "",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "Avalikin Lore Team"
+                ]
+            }
+        },
+        {
+            "name": "Consumer battery tech: how it works and is it yummy?",
+            "instanceId": 3,
+            "startTime": 1795301100,
+            "setLength": 90,
+            "logoName": "",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "Tholin"
+                ]
+            }
+        },
+        {
+            "name": "Audiolink The Basics and Beyond : How to Become a Living Glowstick",
+            "instanceId": 3,
+            "startTime": 1795321800,
+            "setLength": 90,
+            "logoName": "",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "Sundra"
+                ]
+            }
+        },
+        {
+            "name": "Frost’s descent into madness",
+            "instanceId": 3,
+            "startTime": 1795372200,
+            "setLength": 90,
+            "logoName": "",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "Frost"
+                ]
+            }
+        },
+        {
+            "name": "Tycho’s science time",
+            "instanceId": 3,
+            "startTime": 1795379400,
+            "setLength": 60,
+            "logoName": "",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "TychoRoc"
                 ]
             }
         }
