@@ -7,19 +7,19 @@
         "logoName": "avaliconlogo.png",
         "customTitle": true,
         "title": "Avalicon 2026",
-        "customTagline": false,
+        "customTagline": true,
         "tagline": "awawawa, statement"
     },
     "displayActive": [
         {
             "name": "Day 1",
-            "start": 1793397600,
-            "finish": 1793419200
+            "start": 1795204800,
+            "finish": 1795239000
         },
         {
             "name": "Day 2",
-            "start": 1793484000,
-            "finish": 1793505600
+            "start": 1795291200,
+            "finish": 1795325400
         }
     ],
     "instances": [
@@ -41,199 +41,113 @@
     ],
     "performers": [
         {
-            "name": "Grimm Stone",
-            "instanceId": 1,
-            "startTime": 1793397600,
-            "setLength": 60,
-            "logoName": "Spirit Of The Symphony/DJ_Grimmy_Updated_Logo_Lit-1.webp",
-            "genre": "Electro Swing",
-            "credits": {
-                "VJ": [
-                    "Orca Toaster"
-                ],
-                "LD": [
-                    "Lirodon"
-                ]
-            }
-        },
-        {
-            "name": "Galdyr",
-            "instanceId": 1,
-            "startTime": 1793401200,
-            "setLength": 60,
-            "logoName": "Spirit Of The Symphony/galdyr_full-restransparent-1.webp",
-            "genre": "Liquid Drum n' Bass",
-            "credits": {
-                "VJ": [
-                    "Manik",
-                    "Pulse",
-                    "Eunki"
-                ],
-                "LD": [
-                    "Aetherios"
-                ]
-            }
-        },
-        {
-            "name": "RE_SHVDE",
+            "name": "HMage",
             "instanceId": 2,
-            "startTime": 1793404800,
+            "startTime": 1795210200,
             "setLength": 60,
-            "logoName": "Spirit Of The Symphony/RE_SHADELOGO2Transparent.png",
-            "genre": "Dark Club",
+            "logoName": "",
+            "genre": "Progressive Trance",
             "credits": {
-                "VJ": [
-                    "Pulse"
-                ],
                 "LD": [
-                    "Fiendir"
-                ],
-                "Filming": [
-                    "New Edge Studios"
+                    "Flying Draegon"
                 ]
             }
         },
         {
-            "name": "Weyerless",
+            "name": "~Ember~",
             "instanceId": 2,
-            "startTime": 1793408400,
+            "startTime": 1795215600,
             "setLength": 60,
-            "logoName": "Spirit Of The Symphony/Wey_Logo_6k.png",
-            "genre": "Drum n' Bass",
+            "logoName": "",
+            "genre": "Drum & Bass",
             "credits": {
-                "VJ": [
-                    "Manik"
-                ],
+                "VJ": [],
                 "LD": [
-                    "Aetherios"
+                    "Flying Draegon"
                 ]
             }
         },
         {
-            "name": "Ichy",
-            "instanceId": 1,
-            "startTime": 1793412000,
-            "setLength": 60,
-            "logoName": "Spirit Of The Symphony/image-24-1.webp",
-            "genre": "Jersey's Club / Baile Funk / 140",
-            "credits": {
-                "VJ": [
-                    "Eunki"
-                ],
-                "LD": [
-                    "Goofy"
-                ]
-            }
-        },
-        {
-            "name": "BirdBrain",
-            "instanceId": 1,
-            "startTime": 1793415600,
-            "setLength": 60,
-            "logoName": "Spirit Of The Symphony/BlankUpdatedBirdBrain.webp",
-            "genre": "Experimental Deep Dub",
-            "credits": {
-                "VJ": [
-                    "Birdbrain"
-                ],
-                "LD": [
-                    "Goofy"
-                ]
-            }
-        },
-        {
-            "name": "VAT",
-            "instanceId": 1,
-            "startTime": 1793484000,
-            "setLength": 60,
-            "logoName": "Spirit Of The Symphony/Vat_Logo colored(1).png",
-            "genre": "Psytrance",
-            "credits": {
-                "VJ": [
-                    "Pulse"
-                ],
-                "LD": [
-                    "DubbyWubby"
-                ]
-            }
-        },
-        {
-            "name": "GRN",
-            "instanceId": 1,
-            "startTime": 1793487600,
-            "setLength": 60,
-            "logoName": "Spirit Of The Symphony/21279-1.webp",
-            "genre": "UKG / UK Bass / 140 / Global Club",
-            "credits": {
-                "VJ": [
-                    "What the Pup"
-                ],
-                "LD": [
-                    "Kuropper"
-                ]
-            }
-        },
-        {
-            "name": "Draven",
+            "name": "FromSkyToEnd",
             "instanceId": 2,
-            "startTime": 1793491200,
+            "startTime": 1795230000,
             "setLength": 60,
-            "logoName": "Spirit Of The Symphony/draven-logo-2026_namegradient-1.webp",
-            "genre": "Midtempo",
+            "logoName": "",
+            "genre": "Mixed EDM",
             "credits": {
-                "VJ": [
-                    "Orca Toaster"
-                ],
+                "VJ": [],
                 "LD": [
-                    "Lirodon"
+                    "Flying Draegon"
                 ]
             }
         },
         {
-            "name": "Otomiru",
+            "name": "[SULii]",
             "instanceId": 2,
-            "startTime": 1793494800,
+            "startTime": 1795234500,
             "setLength": 60,
-            "logoName": "Spirit Of The Symphony/eee-1.webp",
-            "genre": "Hard Techno / Schranz",
+            "logoName": "",
+            "genre": "Mixed EDM",
             "credits": {
-                "VJ": [
-                    "Manik"
-                ],
+                "VJ": [],
                 "LD": [
-                    "Oddy"
+                    "Flying Draegon"
                 ]
             }
         },
         {
-            "name": "Mikish",
-            "instanceId": 1,
-            "startTime": 1793498400,
+            "name": "Uplifting Trance",
+            "instanceId": 2,
+            "startTime": 1795294800,
             "setLength": 60,
-            "logoName": "Spirit Of The Symphony/color_bg-none.png",
-            "genre": "Crossbreed, Industrial Hardcore, Hard DnB",
+            "logoName": "",
+            "genre": "jere",
             "credits": {
-                "VJ": [
-                    "Pulse"
-                ],
+                "VJ": [],
                 "LD": [
-                    "Lirodon"
+                    "Flying Draegon"
                 ]
             }
         },
         {
-            "name": "Pythax",
-            "instanceId": 1,
-            "startTime": 1793502000,
+            "name": "Geritz",
+            "instanceId": 2,
+            "startTime": 1795308300,
             "setLength": 60,
-            "logoName": "Spirit Of The Symphony/Lorem_Ipsum-1.png",
-            "genre": "Dubstep / Tearout / Trap / 140",
+            "logoName": "",
+            "genre": "Genrefluid",
             "credits": {
-                "VJ": [
-                    "Pythax"
-                ],
+                "VJ": [],
                 "LD": [
-                    "LD"
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Nifae",
+            "instanceId": 2,
+            "startTime": 1795312800,
+            "setLength": 60,
+            "logoName": "",
+            "genre": "Acid Techno",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Beekin",
+            "instanceId": 2,
+            "startTime": 1795317300,
+            "setLength": 60,
+            "logoName": "",
+            "genre": "Trance/Dance/House",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
                 ]
             }
         }
