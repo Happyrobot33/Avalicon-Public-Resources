@@ -1,14 +1,14 @@
 {
     "messages": {
-        "pre": "Day 1 of the event starts at ",
-        "inter": "Come back for Day 2 at ",
-        "post": "The event has ended, come by for our next event!",
+        "pre": "The next day of the event starts at ",
+        "inter": "Come back for the next day!",
+        "post": "The event has ended.",
         "logo": true,
-        "logoName": "TNS_Icon_v1.0_Transparent.webp",
+        "logoName": "avaliconlogo.png",
         "customTitle": true,
-        "title": "Spirit Of The Symphony",
+        "title": "Avalicon 2026",
         "customTagline": false,
-        "tagline": "Spooky Month"
+        "tagline": "awawawa, statement"
     },
     "displayActive": [
         {
@@ -25,13 +25,18 @@
     "instances": [
         {
             "id": 1,
-            "name": "Gold",
-            "instanceLogoName": "gold-instance.webp"
+            "name": "Jumps",
+            "instanceLogoName": "avaliconlogo.png"
         },
         {
             "id": 2,
-            "name": "Silver",
-            "instanceLogoName": "silver-instance.webp"
+            "name": "DJs",
+            "instanceLogoName": "avaliconlogo.png"
+        },
+        {
+            "id": 3,
+            "name": "Panels",
+            "instanceLogoName": "avaliconlogo.png"
         }
     ],
     "performers": [
