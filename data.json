@@ -87,6 +87,20 @@
             }
         },
         {
+            "name": "Renali of Kaejull",
+            "instanceId": 2,
+            "startTime": 1795234500,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/Renali_logo.webp",
+            "genre": "Hardstyle",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
             "name": "Uplifting Trance",
             "instanceId": 2,
             "startTime": 1795294800,
