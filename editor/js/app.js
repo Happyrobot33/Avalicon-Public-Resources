@@ -73,7 +73,11 @@ document.addEventListener("alpine:init", () => {
     // --- output box ---
 
     get output() {
-      return `${JSON.stringify(this.data, null, 4)}\n`;
+      const data = {
+        ...this.data,
+        performers: [...this.data.performers].sort((a, b) => a.startTime - b.startTime),
+      };
+      return `${JSON.stringify(data, null, 4)}\n`;
     },
 
     checkOutput(text) {
