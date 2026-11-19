@@ -87,20 +87,6 @@
             }
         },
         {
-            "name": "[SULii]",
-            "instanceId": 2,
-            "startTime": 1795234500,
-            "setLength": 60,
-            "logoName": "",
-            "genre": "Mixed EDM",
-            "credits": {
-                "VJ": [],
-                "LD": [
-                    "Flying Draegon"
-                ]
-            }
-        },
-        {
             "name": "Uplifting Trance",
             "instanceId": 2,
             "startTime": 1795294800,
@@ -124,7 +110,7 @@
             "credits": {
                 "VJ": [],
                 "LD": [
-                    "Flying Draegon"
+                    "Kat Food"
                 ]
             }
         },
@@ -133,12 +119,12 @@
             "instanceId": 2,
             "startTime": 1795312800,
             "setLength": 60,
-            "logoName": "",
+            "logoName": "Avalicon 2026/DJs/nifae.png",
             "genre": "Acid Techno",
             "credits": {
                 "VJ": [],
                 "LD": [
-                    "Flying Draegon"
+                    "Kat Food"
                 ]
             }
         },
@@ -152,7 +138,7 @@
             "credits": {
                 "VJ": [],
                 "LD": [
-                    "Flying Draegon"
+                    "Kat Food"
                 ]
             }
         },
@@ -161,7 +147,7 @@
             "instanceId": 3,
             "startTime": 1795222800,
             "setLength": 90,
-            "logoName": "",
+            "logoName": "Avalicon 2026/Panels/Illuminatelogo.webp",
             "genre": "",
             "credits": {
                 "Panelists": [
@@ -174,7 +160,7 @@
             "instanceId": 3,
             "startTime": 1795301100,
             "setLength": 90,
-            "logoName": "",
+            "logoName": "Avalicon 2026/Panels/tholin.webp",
             "genre": "",
             "credits": {
                 "Panelists": [
@@ -187,7 +173,7 @@
             "instanceId": 3,
             "startTime": 1795321800,
             "setLength": 90,
-            "logoName": "",
+            "logoName": "Avalicon 2026/Panels/sundra.png",
             "genre": "",
             "credits": {
                 "Panelists": [
@@ -200,7 +186,7 @@
             "instanceId": 3,
             "startTime": 1795370400,
             "setLength": 90,
-            "logoName": "",
+            "logoName": "Avalicon 2026/Panels/frost.png",
             "genre": "",
             "credits": {
                 "Panelists": [
@@ -213,7 +199,7 @@
             "instanceId": 3,
             "startTime": 1795379400,
             "setLength": 60,
-            "logoName": "",
+            "logoName": "Avalicon 2026/Panels/tycho.png",
             "genre": "",
             "credits": {
                 "Panelists": [
