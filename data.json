@@ -12,11 +12,6 @@
     },
     "displayActive": [
         {
-            "name": "test",
-            "start": 1795117449,
-            "finish": 1796261889
-        },
-        {
             "name": "Day 1",
             "start": 1795204800,
             "finish": 1795239000
@@ -51,6 +46,15 @@
     ],
     "performers": [
         {
+            "name": "First Jump",
+            "instanceId": 1,
+            "startTime": 1795206600,
+            "setLength": 15,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
+        },
+        {
             "name": "HMage",
             "instanceId": 2,
             "startTime": 1795211100,
@@ -74,6 +78,19 @@
                 "VJ": [],
                 "LD": [
                     "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "State of the Lore Address",
+            "instanceId": 3,
+            "startTime": 1795222800,
+            "setLength": 90,
+            "logoName": "Avalicon 2026/Panels/Illuminatelogo.webp",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "Avalikin Lore Team"
                 ]
             }
         },
@@ -120,6 +137,28 @@
             }
         },
         {
+            "name": "Arrival",
+            "instanceId": 1,
+            "startTime": 1795299300,
+            "setLength": 15,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
+        },
+        {
+            "name": "Consumer battery tech: how it works and is it yummy?",
+            "instanceId": 3,
+            "startTime": 1795301100,
+            "setLength": 90,
+            "logoName": "Avalicon 2026/Panels/tholin.webp",
+            "genre": "",
+            "credits": {
+                "Panelists": [
+                    "Tholin"
+                ]
+            }
+        },
+        {
             "name": "Geritz",
             "instanceId": 2,
             "startTime": 1795308300,
@@ -162,32 +201,6 @@
             }
         },
         {
-            "name": "State of the Lore Address",
-            "instanceId": 3,
-            "startTime": 1795222800,
-            "setLength": 90,
-            "logoName": "Avalicon 2026/Panels/Illuminatelogo.webp",
-            "genre": "",
-            "credits": {
-                "Panelists": [
-                    "Avalikin Lore Team"
-                ]
-            }
-        },
-        {
-            "name": "Consumer battery tech: how it works and is it yummy?",
-            "instanceId": 3,
-            "startTime": 1795301100,
-            "setLength": 90,
-            "logoName": "Avalicon 2026/Panels/tholin.webp",
-            "genre": "",
-            "credits": {
-                "Panelists": [
-                    "Tholin"
-                ]
-            }
-        },
-        {
             "name": "Audiolink The Basics and Beyond : How to Become a Living Glowstick",
             "instanceId": 3,
             "startTime": 1795321800,
@@ -214,6 +227,15 @@
             }
         },
         {
+            "name": "???",
+            "instanceId": 1,
+            "startTime": 1795377600,
+            "setLength": 15,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
+        },
+        {
             "name": "Tycho’s science time",
             "instanceId": 3,
             "startTime": 1795379400,
@@ -225,33 +247,6 @@
                     "TychoRoc"
                 ]
             }
-        },
-        {
-            "name": "First Jump",
-            "instanceId": 1,
-            "startTime": 1795206600,
-            "setLength": 15,
-            "logoName": "",
-            "genre": "",
-            "credits": {}
-        },
-        {
-            "name": "Arrival",
-            "instanceId": 1,
-            "startTime": 1795299300,
-            "setLength": 15,
-            "logoName": "",
-            "genre": "",
-            "credits": {}
-        },
-        {
-            "name": "???",
-            "instanceId": 1,
-            "startTime": 1795377600,
-            "setLength": 15,
-            "logoName": "",
-            "genre": "",
-            "credits": {}
         }
     ]
 }
