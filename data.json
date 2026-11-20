@@ -31,17 +31,17 @@
         {
             "id": 1,
             "name": "Jumps",
-            "instanceLogoName": "avaliconlogo.png"
+            "instanceLogoName": "rocket.png"
         },
         {
             "id": 2,
             "name": "DJs",
-            "instanceLogoName": "avaliconlogo.png"
+            "instanceLogoName": "spotlight.png"
         },
         {
             "id": 3,
             "name": "Panels",
-            "instanceLogoName": "avaliconlogo.png"
+            "instanceLogoName": "projector.png"
         }
     ],
     "performers": [
