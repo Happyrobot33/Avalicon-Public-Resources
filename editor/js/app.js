@@ -7,6 +7,7 @@ if (typeof mermaid !== "undefined") {
 
 const TIMESTAMP_KEYS = ["start", "finish", "startTime"];
 const MULTILINE_KEYS = ["pre", "inter", "post"];
+const IMAGE_FIELDS = ["logoName", "instanceLogoName"];
 // Fields added by the publish action; they must never appear in the source data.json.
 const GENERATED_KEYS = ["logoUV", "instanceLogoUV", "gitHash"];
 
@@ -204,6 +205,16 @@ document.addEventListener("alpine:init", () => {
       if (typeof v === "number") return "number";
       if (typeof v === "string") return MULTILINE_KEYS.includes(key) || v.includes("\n") ? "multiline" : "text";
       return "raw";
+    },
+
+    // First non-empty image filename on the item, shown in the card header.
+    logoOf(item) {
+      const key = IMAGE_FIELDS.find((k) => typeof item[k] === "string" && item[k].trim());
+      return key ? item[key] : "";
+    },
+
+    imageSrc(name) {
+      return `../images/${encodeURI(name)}`;
     },
 
     toLocal: (sec) => (Number.isFinite(sec) ? toLocalString(sec) : ""),

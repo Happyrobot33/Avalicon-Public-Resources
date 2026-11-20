@@ -44,9 +44,18 @@
 
               <template x-for="(item, i) in section.list" :key="i">
                 <div class="card">
-                  <div class="card__head" x-show="!section.single">
-                    <span x-text="section.label?.(item, i)"></span>
-                    <span>
+                  <div class="card__head" x-show="!section.single || logoOf(item)">
+                    <span class="card__title">
+                      <template x-if="logoOf(item)">
+                        <a class="image-thumb" :href="imageSrc(logoOf(item))" target="_blank" :title="logoOf(item)">
+                          <img :src="imageSrc(logoOf(item))" alt=""
+                               onload="this.parentNode.classList.remove('image-thumb--missing')"
+                               onerror="this.parentNode.classList.add('image-thumb--missing')">
+                        </a>
+                      </template>
+                      <span x-text="section.label?.(item, i)"></span>
+                    </span>
+                    <span x-show="!section.single">
                       <button class="btn btn--secondary" title="Move up" x-show="!section.sorted" @click="move(section.list, i, -1)">↑</button>
                       <button class="btn btn--secondary" title="Move down" x-show="!section.sorted" @click="move(section.list, i, 1)">↓</button>
                       <button class="btn btn--secondary" @click="duplicate(section.list, i)">Duplicate</button>
