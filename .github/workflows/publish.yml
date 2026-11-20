@@ -52,6 +52,8 @@ jobs:
           mkdir _site/editor
           cp editor/index.html _site/editor/
           cp -r editor/js _site/editor/js
+          # Source logos, used by the editor's card previews (../images/...).
+          cp -r images _site/images
           npx --yes sass --no-source-map editor/styles.scss _site/editor/styles.css
 
       - uses: actions/configure-pages@v5
