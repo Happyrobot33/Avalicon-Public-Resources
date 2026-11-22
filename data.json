@@ -358,6 +358,15 @@
                     "Flying Draegon"
                 ]
             }
+        },
+        {
+            "name": "Credits",
+            "instanceId": 2,
+            "startTime": 1795413600,
+            "setLength": 20,
+            "logoName": "",
+            "genre": "",
+            "credits": {}
         }
     ]
 }
