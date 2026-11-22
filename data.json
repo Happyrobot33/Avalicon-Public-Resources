@@ -24,7 +24,7 @@
         {
             "name": "Day 3",
             "start": 1795366800,
-            "finish": 1795384800
+            "finish": 1795417200
         }
     ],
     "instances": [
@@ -245,6 +245,117 @@
             "credits": {
                 "Panelists": [
                     "TychoRoc"
+                ]
+            }
+        },
+        {
+            "name": "HMage [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795384800,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/hmage.webp",
+            "genre": "Progressive Trance",
+            "credits": {
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "~Ember~ [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795388400,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/Ember_Logo.webp",
+            "genre": "Drum & Bass",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "FromSkyToEnd [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795392000,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/FromSkyToEndLogoV4-exportTrans.webp",
+            "genre": "Mixed EDM",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Renali of Kaejull [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795395600,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/Renali_logo.webp",
+            "genre": "Hardstyle",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Uplifting Trance [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795399200,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/ForTheBit.webp",
+            "genre": "jere",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Geritz [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795402800,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/Geritz_Logo_NoBack.webp",
+            "genre": "Genrefluid",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Nifae [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795406400,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/nifae.png",
+            "genre": "Acid Techno",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
+                ]
+            }
+        },
+        {
+            "name": "Beekin [REPLAY]",
+            "instanceId": 2,
+            "startTime": 1795410000,
+            "setLength": 60,
+            "logoName": "Avalicon 2026/DJs/Beekin.webp",
+            "genre": "Trance/Dance/House",
+            "credits": {
+                "VJ": [],
+                "LD": [
+                    "Flying Draegon"
                 ]
             }
         }
