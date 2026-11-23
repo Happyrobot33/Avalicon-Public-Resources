@@ -349,7 +349,7 @@
             "name": "Beekin [REPLAY]",
             "instanceId": 2,
             "startTime": 1795414200,
-            "setLength": 60,
+            "setLength": 90,
             "logoName": "Avalicon 2026/DJs/Beekin.webp",
             "genre": "Trance/Dance/House",
             "credits": {
@@ -362,7 +362,7 @@
         {
             "name": "Credits",
             "instanceId": 2,
-            "startTime": 1795417800,
+            "startTime": 1795419600,
             "setLength": 20,
             "logoName": "",
             "genre": "",
